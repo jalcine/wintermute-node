@@ -4,12 +4,11 @@
   "description": "JavaScript bindings for Wintermute",
   "main": "index.js",
   "dependencies": {
-    "bindings": "^1.2.1",
-    "cmake-js": "^0.10.4",
-    "nan": "^1.8.4"
+    "bindings": "^1.2.1"
   },
   "devDependencies": {
     "cmake-js": "^0.10.4",
+    "gulp": "^3.8.11",
     "gulp-benchmark": "^1.1.1",
     "gulp-coverage": "^0.3.35",
     "gulp-example-to-test": "^1.0.0",
