@@ -1,0 +1,35 @@
+{
+  "name": "wintermute",
+  "version": "0.0.1",
+  "description": "JavaScript bindings for Wintermute",
+  "main": "index.js",
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "cmake-js": "^0.10.4",
+    "nan": "^1.8.4"
+  },
+  "devDependencies": {
+    "cmake-js": "^0.10.4",
+    "gulp-benchmark": "^1.1.1",
+    "gulp-coverage": "^0.3.35",
+    "gulp-example-to-test": "^1.0.0",
+    "gulp-mocha": "^2.0.1",
+    "nan": "^1.8.4"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jalcine/wintermute-node.git"
+  },
+  "keywords": [
+    "wintermute"
+  ],
+  "author": "Jacky Alciné <yo@jacky.wtf> (https://jacky.wtf/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jalcine/wintermute-node/issues"
+  },
+  "homepage": "https://github.com/jalcine/wintermute-node#readme"
+}
